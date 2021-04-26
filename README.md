@@ -16,9 +16,10 @@ embarqués
 ## Préparation du Toolchain
    -Ubunto :
    >
-     ```linux
+        
         sudo apt install binutils-arm-linux-gnueabi
-     ```
+        
+  
 
 ## normal compiler
 ## cross compiler
