@@ -15,10 +15,10 @@ embarqués
 ## gestion des étudiants en langage c
 ## Préparation du Toolchain
    -Ubunto :
-     ```c++
-    #include <ESP8266WiFi.h>
-    #include <PubSubClient.h>
-  ```
+   >
+     ```linux
+        sudo apt install binutils-arm-linux-gnueabi
+     ```
 
 ## normal compiler
 ## cross compiler
