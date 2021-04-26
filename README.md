@@ -28,6 +28,7 @@ embarqués
        gcc "name_file".c
        
   - Vérification:
+  
    <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/normal.png" target="_blank"><img src="Assets/normal.png" alt="Browser Stack" ></a>  
 ## cross compiler
    - compile using Toolchain :
@@ -35,4 +36,5 @@ embarqués
        arm-linux-gnueabi-gcc "name_file".c
 
   - Vérification:
+  
    <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/cross.png" target="_blank"><img src="Assets/cross.png" alt="Browser Stack" ></a>  
