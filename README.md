@@ -13,6 +13,6 @@ embarqués
 + [cross compiler](#cross-compiler)
 
 ## gestion des étudiants en langage c
-##Préparation du Toolchain
-##normal compiler
-##cross compiler
+## Préparation du Toolchain
+## normal compiler
+## cross compiler
