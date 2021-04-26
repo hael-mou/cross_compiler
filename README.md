@@ -18,8 +18,13 @@ embarqués
    >
         
         sudo apt install binutils-arm-linux-gnueabi
+        
    <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/tool.png" target="_blank"><img src="Assets/tool.png" alt="Browser Stack" ></a>     
   
 
 ## normal compiler
+
+   <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/normal.png" target="_blank"><img src="Assets/normal.png alt="Browser Stack" ></a>  
 ## cross compiler
+
+   <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/cross.png" target="_blank"><img src="Assets/cross.png" alt="Browser Stack" ></a>  
