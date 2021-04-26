@@ -14,5 +14,11 @@ embarqués
 
 ## gestion des étudiants en langage c
 ## Préparation du Toolchain
+   -Ubunto :
+     ```c++
+    #include <ESP8266WiFi.h>
+    #include <PubSubClient.h>
+  ```
+
 ## normal compiler
 ## cross compiler
