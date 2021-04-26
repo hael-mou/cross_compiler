@@ -7,8 +7,12 @@ embarqués
 
 ## Contents
 + [Introduction](#cross_compiler)
-+ [gestion des étudiants en langage c](#Matériel-utilisé)
-+ [Préparation du Toolchain](#Préparez-le-chariot-élévateur)
-+ [normal compiler](#Arduino-code-)
-+ [cross_compiler](#application-de-contr%C3%B4le-android-)
++ [gestion des étudiants en langage c](#gestion-des-étudiants-en-langage-c)
++ [Préparation du Toolchain](#Préparation-du-Toolchain)
++ [normal compiler](#normal-compiler)
++ [cross compiler](#cross-compiler)
 
+## gestion des étudiants en langage c
+##Préparation du Toolchain
+##normal compiler
+##cross compiler
