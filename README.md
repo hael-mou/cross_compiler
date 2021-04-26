@@ -18,7 +18,7 @@ embarqués
    >
         
         sudo apt install binutils-arm-linux-gnueabi
-   <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/tool.png" target="_blank"><img src="Assets/esp8266.jpg" alt="Browser Stack" width="140"></a>     
+   <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/tool.png" target="_blank"><img src="Assets/tool.png" alt="Browser Stack" width="140"></a>     
   
 
 ## normal compiler
