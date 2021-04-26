@@ -14,7 +14,7 @@ embarqués
 
 ## gestion des étudiants en langage c
 ## Préparation du Toolchain
-   -Ubunto :
+   - Ubunto :
    >
         
         sudo apt install binutils-arm-linux-gnueabi
