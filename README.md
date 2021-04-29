@@ -27,7 +27,8 @@ embarqués
    - compile using command :
    >
        gcc "name_file".c
-       
+   
+   <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/les%20fichiers%20ex%C3%A9cutables/ubunto.out" target="_blank">Le fichier exécutable compilé pour l’architecture x86-64 </a>
   - Vérification:
   
    <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/normal.png" target="_blank"><img src="Assets/normal.png" alt="Browser Stack" ></a>  
@@ -36,6 +37,7 @@ embarqués
    >
        arm-linux-gnueabi-gcc "name_file".c
 
+  <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/les%20fichiers%20ex%C3%A9cutables/arm.out" target="_blank">Le fichier exécutable compilé pour l’architecture ARM </a>
   - Vérification:
   
    <a href="https://github.com/hamzaelmoudden/cross_compiler/blob/main/Assets/cross.png" target="_blank"><img src="Assets/cross.png" alt="Browser Stack" ></a>  
